@@ -17,10 +17,10 @@ Here are some highlights of my recent projects:
 - [Sales Mall Submission](https://github.com/Azeemshah99/Sales_Mall_Submission)
 
 ## MY Repository:
--[Power BI](https://github.com/Azeemshah99/Power-BI)
--[Python](https://github.com/Azeemshah99/Python)
--[SQL](https://github.com/Azeemshah99/SQL)
--[Excel](https://github.com/Azeemshah99/Excel)
+- [Power BI](https://github.com/Azeemshah99/Power-BI)
+- [Python](https://github.com/Azeemshah99/Python)
+- [SQL](https://github.com/Azeemshah99/SQL)
+- [Excel](https://github.com/Azeemshah99/Excel)
 
 ## Let's Connect!
 - LinkedIn: [Your LinkedIn Profile URL]
