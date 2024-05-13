@@ -14,6 +14,7 @@ Here are some highlights of my recent projects:
 - [Project 1]: [Brief description or key features]
 - [Project 2]: [Brief description or key features]
 - [Project 3]: [Brief description or key features]
+- ![Sales Mall Submission](https://github.com/Azeemshah99/Sales_Mall_Submission)
 
 ## Let's Connect!
 - LinkedIn: [Your LinkedIn Profile URL]
