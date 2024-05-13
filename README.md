@@ -1,7 +1,7 @@
 # Hello, I'm Azeemshah Amiruddin. 👋
 
 ## About Me
-I'm a passionate data analyst and Power BI developer with a knack for transforming raw data into actionable insights. With 2 years of experience in the field, I've honed my skills in data analysis, visualization, and storytelling to drive business growth and inform strategic decision-making.
+I'm a passionate data analyst, python programmer and Power BI developer with a knack for transforming raw data into actionable insights. With 2 years of experience in the field, I've honed my skills in data analysis, visualization, and storytelling to drive business growth and inform strategic decision-making.
 
 ## My Expertise
 - **Data Analysis**: Leveraging advanced analytical techniques to extract valuable insights from complex datasets.
