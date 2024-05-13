@@ -11,7 +11,7 @@ I'm a passionate data analyst, python programmer and Power BI developer with a k
 
 ## My Projects
 Here are some highlights of my recent projects:
-- [CRM Sales Dashboard]: [Brief description or key features]
+- [CRM Sales Opportunities Analysis Dashboard]: [Brief description or key features]
 - [Project 2]: [Brief description or key features]
 - [Goverment Data List (Web Scrap)]: [Brief description or key features]
 - [Sales Mall Submission](https://github.com/Azeemshah99/Sales_Mall_Submission)
