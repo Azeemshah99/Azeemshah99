@@ -18,12 +18,12 @@ Here are some highlights of my recent projects:
 
 ## MY Repository:
 - [Power BI](https://github.com/Azeemshah99/Power-BI)
-- [Python](https://github.com/Azeemshah99/Python)
-- [SQL](https://github.com/Azeemshah99/SQL)
-- [Excel](https://github.com/Azeemshah99/Excel)
+- [Python programming](https://github.com/Azeemshah99/Python)
+- [SQL Database Management](https://github.com/Azeemshah99/SQL)
+- [Excel (Template, Power Query, Power Pivot)](https://github.com/Azeemshah99/Excel)
 
 ## Let's Connect!
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: [azeemshah-amiruddin](https://www.linkedin.com/in/azeemshah-amiruddin/)
 - Portfolio: [Link to your portfolio website]
 - Email: [Your Email Address]
 
