@@ -14,7 +14,7 @@ Here are some highlights of my recent projects:
 - [CRM Sales Opportunities Analysis Dashboard]: [Brief description or key features]
 - [Project 2]: [Brief description or key features]
 - [Goverment Data List (Web Scrap)]: [Brief description or key features]
-- [Sales Mall Submission](https://github.com/Azeemshah99/Sales_Mall_Submission)
+- [Sales Mall Submission Python Program](https://github.com/Azeemshah99/Sales_Mall_Submission)
 
 ## MY Repository:
 - [Power BI](https://github.com/Azeemshah99/Power-BI)
