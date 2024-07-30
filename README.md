@@ -24,7 +24,6 @@ Here are some highlights of my recent projects:
 
 ## Let's Connect!
 - LinkedIn: [azeemshah-amiruddin](https://www.linkedin.com/in/azeemshah-amiruddin/)
-- Portfolio: [Link to your portfolio website]
 - Email: azeemshah.amiruddin@gmail.com
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions!
